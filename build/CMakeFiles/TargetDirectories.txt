@@ -1,0 +1,3 @@
+/home/limjung99/bob/dae_myeong/fat32_parser/build/CMakeFiles/fat32_parser.out.dir
+/home/limjung99/bob/dae_myeong/fat32_parser/build/CMakeFiles/edit_cache.dir
+/home/limjung99/bob/dae_myeong/fat32_parser/build/CMakeFiles/rebuild_cache.dir
